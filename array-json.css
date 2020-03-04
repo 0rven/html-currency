@@ -1,0 +1,15 @@
+div.main {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.main .card {
+  min-width: 100px;
+  max-width: 200px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid green;
+  background-color: #EEEEEE;
+  box-shadow: 10px 10px 5px lightgray;
+}
